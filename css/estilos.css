@@ -1,0 +1,16 @@
+.color1{
+    background: #414141;
+	color:#fff;
+}
+.color2{
+    background: rgb(187, 187, 187);
+	color:rgb(187, 187, 187);
+}
+.color3{
+    background: #e5bcbc;
+	color:rgb(0, 0, 0);
+}
+footer {
+	background:#b82626;
+	color:#fff;
+}
